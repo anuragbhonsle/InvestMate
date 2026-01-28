@@ -1,6 +1,6 @@
 # InvestMate 
 
-### invest-matee.vercel.app/
+### [invest-matee.vercel.app](https://invest-matee.vercel.app/)
 
 **InvestMate** is a modern and interactive **investment calculator** built with **React**. Track your investment growth over time, visualize your portfolio, and see your returns update **live**
 
